@@ -3,6 +3,7 @@ body {
   background: rgb(255, 234, 172);
 }
 
+
 @media (min-width: 1100px) {
 
   .wrapper {
