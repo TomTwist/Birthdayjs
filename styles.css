@@ -1,0 +1,15 @@
+body {
+  font-family: 'Quicksand', sans-serif;
+  background: rgb(255, 234, 172);
+}
+
+@media (min-width: 1100px) {
+
+  .wrapper {
+    padding: 30px;
+    background: white;
+    width: 60%;
+    margin: auto;
+  }
+
+}
