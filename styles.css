@@ -3,14 +3,20 @@ body {
   background: rgb(255, 234, 172);
 }
 
-
-@media (min-width: 1100px) {
+@media (min-width: 600px) {
 
   .wrapper {
     padding: 30px;
     background: white;
-    width: 60%;
+    width: 85%;
     margin: auto;
+  }
+
+}
+@media (min-width: 1100px) {
+
+  .wrapper {
+    width: 60%;
   }
 
 }
