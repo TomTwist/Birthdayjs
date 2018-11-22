@@ -3,6 +3,14 @@ body {
   background: rgb(255, 234, 172);
 }
 
+.year-item {
+  margin: 0;
+}
+
+.span-space {
+  padding-right: 2em;
+}
+
 @media (min-width: 600px) {
 
   .wrapper {
