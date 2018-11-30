@@ -12,7 +12,6 @@ function printAges(message) {
   outputDiv.innerHTML = message;
 }
 
-
 while (yearOfBirth <= theYear) {
   html += '<p class="year-item">' + counterAge + ' in ' + yearOfBirth + '</p>'; //hier werden die einzelnen jahre gesammelt und gelistet
   yearOfBirth += 1;
